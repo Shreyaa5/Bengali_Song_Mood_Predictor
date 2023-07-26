@@ -7,8 +7,8 @@ PS - This was a Group Effort under the Guidance of Prof. Sudipta Chakrabarty fac
 
 The people involved were :-
 
-Shreya Paul - https://github.com/Shreyaa5
-Debanjan Bhattacharjee - https://github.com/collegecoder25
-Abhiraj Bannerjee - https://github.com/Wriki-tmsl
-Aishee Dutta - https://github.com/Aishee23
+Shreya Paul - https://github.com/Shreyaa5 ,
+Debanjan Bhattacharjee - https://github.com/collegecoder25 ,
+Abhiraj Bannerjee - https://github.com/Wriki-tmsl ,
+Aishee Dutta - https://github.com/Aishee23 ,
 Urnisha Sarkar - https://github.com/Urnisha2002
